@@ -30,12 +30,12 @@ body {
 }
 .box {
   max-width: 1024px;
-  padding: 0px 40px;
+  padding: 1rem 2.5rem;
   margin: auto;
 }
 
 .header {
-  height: 6rem;
+  height: 8rem;
 }
 
 .header div {

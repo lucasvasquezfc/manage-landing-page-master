@@ -17,13 +17,13 @@
   font-family: "Be Vietnam Pro";
 }
 body {
-  background-image: url(images/bg-tablet-pattern.svg);
+  background-image: url("images/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
   background-size: 800px;
   background-position: 110% -20%;
 }
 .background {
-  background-image: url(images/bg-tablet-pattern.svg);
+  background-image: url("images/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
   background-size: 800px;
   background-position: -40% 55%;
@@ -250,7 +250,7 @@ body {
 /* ---------------- orange ----------- */
 .orange-background {
   background-color: var(--bright-red);
-  background-image: url(/images/bg-simplify-section-desktop.svg);
+  background-image: url("images/bg-simplify-section-desktop.svg");
 }
 .orange {
   display: flex;

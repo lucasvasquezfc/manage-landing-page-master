@@ -250,7 +250,7 @@ body {
 /* ---------------- orange ----------- */
 .orange-background {
   background-color: var(--bright-red);
-  background-image: url("images/bg-simplify-section-desktop.svg");
+  background-image: url("./images/bg-simplify-section-desktop.svg");
 }
 .orange {
   display: flex;
